@@ -160,7 +160,7 @@ Includes:
 
 ### Dashboard Preview
 
-![Executive Dashboard](screenshots/executive_dashboard.png)
+![Executive Dashboard](Screenshots/executive_dashboard.png)
 
 ---
 
@@ -178,7 +178,7 @@ Includes:
 
 ### Dashboard Preview
 
-![Operations Dashboard](screenshots/operations_dashboard.png)
+![Operations Dashboard](Screenshots/operations_dashboard.png)
 
 ---
 
@@ -186,7 +186,7 @@ Includes:
 
 Business analysis performed using PostgreSQL.
 
-![SQL Analysis](screenshots/sql_analysis.png)
+![SQL Analysis](Screenshots/sql_analysis.png)
 
 ---
 
@@ -254,8 +254,7 @@ pip install -r requirements.txt
 
 GitHub: https://github.com/HarshRaj-072004
 
-LinkedIn: *(Add your LinkedIn profile URL here)*
+LinkedIn: *https://www.linkedin.com/in/harsh-raj-3537342a2/*
 
 ---
 
-#  If you found this project useful, consider giving it a Star.
