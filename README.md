@@ -98,7 +98,7 @@ The preprocessing pipeline included:
 
 ---
 
-# ⚙️ Feature Engineering
+#  Feature Engineering
 
 Several business-oriented features were engineered to improve portfolio analysis.
 
