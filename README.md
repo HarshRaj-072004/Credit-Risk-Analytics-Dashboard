@@ -517,11 +517,6 @@ The solution can support:
 
 ---
 
-# Model Performance Comparison
-
-![Model Performance Comparison](Screenshots/model_performance_comparison.png)
-
----
 
 # How to Run
 
