@@ -1,0 +1,7 @@
+Property,Value
+Dataset,Credit Risk Analytics
+Samples,30000
+Features,35
+Target,default_next_month
+Final Model,Optimized XGBoost
+ROC-AUC,0.7817005320532533

@@ -1,0 +1,66 @@
+Feature,Importance
+cat__risk_segment_High,0.49223962
+cat__risk_segment_Low,0.12616046
+num__behavioral_risk_score,0.10335845
+num__max_delinquency_6m,0.07551755
+num__months_delinquent_6m,0.018107627
+cat__delinquency_severity_Severe,0.017091582
+num__recent_delinquency,0.016441194
+cat__recent_delinquency_status_2 Months Delinquent,0.014191018
+cat__recent_delinquency_status_1 Month Delinquent,0.007952148
+num__avg_bill_6m,0.007223687
+cat__recent_delinquency_status_3+ Months Delinquent,0.0065116608
+cat__utilization_band_Low (<30%),0.0058263703
+num__avg_payment_6m,0.005798846
+num__zero_payment_months_6m,0.005038137
+num__credit_limit,0.0047457186
+num__current_exposure,0.0045291693
+num__latest_utilization,0.0041286848
+cat__delinquency_trajectory_Stable,0.003795077
+num__payment_aug,0.0037922924
+num__payment_jul,0.0037270908
+cat__education_Graduate School,0.003547783
+num__payment_sep,0.0033690683
+num__bill_sep,0.0032720035
+num__payment_apr,0.0030322983
+cat__utilization_band_Over Limit (>100%),0.002877731
+cat__delinquency_trajectory_Deteriorating,0.002866922
+cat__utilization_band_High (75-100%),0.0028475265
+cat__sex_Male,0.0027651587
+cat__education_Other/Unknown,0.0027490011
+cat__sex_Female,0.0027107247
+num__bill_jul,0.0025434748
+cat__exposure_band_Medium,0.0025076685
+cat__marriage_Single,0.0024214233
+cat__age_band_50-59,0.0023887374
+cat__marriage_Married,0.002287745
+cat__education_University,0.002231333
+num__bill_apr,0.00202675
+num__bill_aug,0.0020257467
+cat__risk_segment_Medium,0.0020186913
+num__bill_may,0.0019494393
+num__age,0.0018682568
+cat__delinquency_trajectory_Improving,0.0018231851
+cat__collection_priority_Routine,0.0017931471
+cat__age_band_60+,0.0017797643
+num__bill_jun,0.0017601898
+num__payment_jun,0.0017261546
+cat__collection_priority_Priority,0.0016866595
+num__payment_may,0.0016017937
+cat__age_band_21-29,0.0014856184
+cat__age_band_30-39,0.0013486618
+cat__collection_priority_Critical,0.0013121142
+cat__delinquency_severity_Mild,0.0011984524
+cat__utilization_band_Elevated (50-75%),0.0007707806
+cat__age_band_40-49,0.00061769196
+cat__education_High School,0.00061194564
+cat__marriage_Other/Unknown,0.0
+num__made_recent_payment,0.0
+cat__delinquency_severity_Moderate,0.0
+cat__delinquency_severity_Current,0.0
+cat__utilization_band_Moderate (30-50%),0.0
+cat__exposure_band_Low,0.0
+cat__exposure_band_High,0.0
+cat__collection_priority_Monitor,0.0
+cat__collection_priority_High Priority,0.0
+cat__recent_delinquency_status_Current,0.0

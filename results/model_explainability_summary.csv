@@ -1,0 +1,5 @@
+Property,Value
+Final Model,Optimized XGBoost
+Explainability Method,SHAP
+Top Feature,num__behavioral_risk_score
+Number of Features,65

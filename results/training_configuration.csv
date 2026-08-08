@@ -1,0 +1,8 @@
+Parameter,Value
+Model,Optimized XGBoost
+Random State,42
+Train Size,0.8
+Test Size,0.2
+Evaluation Metric,ROC-AUC
+Cross Validation,5
+Hyperparameter Search,RandomizedSearchCV
