@@ -3,8 +3,9 @@ numpy
 matplotlib
 seaborn
 scikit-learn
+xgboost
+shap
+joblib
 jupyter
 notebook
 openpyxl
-psycopg2-binary
-sqlalchemy
