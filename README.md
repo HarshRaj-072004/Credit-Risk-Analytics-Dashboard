@@ -604,6 +604,6 @@ to explore the executive, collections, delinquency, and predictive credit-risk d
 
 **Harsh Raj**
 
-GitHub: `HarshRaj-072004`
+GitHub: https://github.com/HarshRaj-072004?tab=repositories
 
-LinkedIn: `harsh-raj-3537342a2`
+LinkedIn: https://www.linkedin.com/in/harsh-raj-3537342a2/
